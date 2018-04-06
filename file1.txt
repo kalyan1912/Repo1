@@ -1,2 +1,4 @@
 Hello world
-This is a sample file for Git
+This is a sample file for Git demonstration 
+Bye Everyone
+have a nice day
