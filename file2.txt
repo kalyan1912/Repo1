@@ -1,3 +1,4 @@
 Hello friends
 Welcome to Git session
 May your day be pleasant in learning the SCM concepts
+Bye 
